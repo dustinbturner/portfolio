@@ -196,7 +196,7 @@ Remember, the people who care about you can offer support and encouragement, whi
 ## Conclusion
 
 In conclusion, overcoming overthinking requires a combination of self-awareness, mindfulness, and practical strategies. By recognizing the triggers, practicing mindfulness, and implementing effective techniques such as journaling or seeking professional help, individuals can break the cycle of overthinking and lead a more balanced and fulfilling life. Remember, it's okay to seek support and take small steps towards managing overthinking. With dedication and persistence, it is possible to conquer overthinking and cultivate a healthier mindset.
-
+<!-- 
 ## Frequently Asked Questions
 
 ### What is overthinking?
@@ -229,4 +229,4 @@ Positive affirmations are statements that promote self-belief and positivity, he
 
 ### Why is keeping a thought journal beneficial for managing overthinking?
 
-A thought journal allows individuals to track and analyze their thought patterns, providing insights into triggers and helping to develop coping strategies for overthinking.
+A thought journal allows individuals to track and analyze their thought patterns, providing insights into triggers and helping to develop coping strategies for overthinking. -->
