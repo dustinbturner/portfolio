@@ -14,9 +14,9 @@ type Presentation = {
 const presentation: Presentation = {
   mail: "dustin@dustinbturner.com",
   title: "Hi, I’m Dustin",
-  // profile: "/profile.webp",
+  profile: "/profile.webp",
   description:
-    "I'm a *machine learning engineer* focused on using innovative technology to improve the *healthcare* space. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "I'm a *machine learning engineer* focused on using innovative technology to improve the *healthcare* space. ",
   socials: [
     {
       label: "Kaggle",
