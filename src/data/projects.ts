@@ -8,7 +8,7 @@ export type Project = {
 const projects: Project[] = [
   {
     title: "Placeholder App",
-    techs: ["ReactJS (NextJS)", "react-query", "zod"],
+    techs: ["Python (NextJS)", "react-query", "zod"],
     link: "/",
   },
   {
@@ -20,7 +20,7 @@ const projects: Project[] = [
     title: "Portfolio / Template",
     techs: ["Astro"],
     link: "/",
-    isComingSoon: true,
+    // isComingSoon: true,
   },
 ];
 
