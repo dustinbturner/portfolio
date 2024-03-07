@@ -26,6 +26,10 @@ const presentation: Presentation = {
       label: "Github",
       link: "https://github.com/dustinbturner",
     },
+    {
+      label: "Email",
+      link: "mailto:dustin@dustinbturner.com",
+    },
   ],
 };
 
