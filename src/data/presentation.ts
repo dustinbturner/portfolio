@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Dustin",
   profile: "/profile.webp",
   description:
-    "I'm a *machine learning engineer* focused on using innovative technology to improve the *healthcare* space. ",
+    "I'm a machine learning engineer focused on using innovative technology to improve the healthcare space. ",
   socials: [
     {
       label: "Kaggle",
