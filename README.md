@@ -5,7 +5,7 @@
 
 ![Template](https://github.com/MaeWolff/astro-portfolio-template/blob/main/public/opengraph-image.jpg)
 
-This theme/template is designed and crafted by [me](https://www.maxencewolff.com).
+This theme/template is designed and crafted by [Maxence Wolff](https://www.maxencewolff.com).
 NB: Additional color themes can also be configured on the `src/data/theme.ts` file.
 
 ## 🥷 Usage
